@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.omesoft.com/app/sleemon/Sleemon.ipa</string>
+					<string>http://download.omesoft.com/app/Sleemon/Sleemon.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.omesoft.sleemon</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
